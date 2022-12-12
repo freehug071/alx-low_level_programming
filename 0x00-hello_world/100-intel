@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -S -maSm=inteel $CFİLE
